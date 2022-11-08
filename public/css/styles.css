@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+
+.author_image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: black;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.author_name{
+    float: left;
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.comment{
+    clear: both;
+    margin-left: 65px;
+    font-size: medium;
+}
+
+.text-sm{
+    font-size: x-small;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.comment-h{
+    font-family: 'Acme', sans-serif;
+}
+
+.comment-body{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Forum', cursive;
+    font-family: 'Neuton', serif;
+}
